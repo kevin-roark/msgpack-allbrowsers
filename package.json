@@ -1,0 +1,13 @@
+{
+  "name": "msgpack-allbrowsers",
+  "version": "0.0.1",
+  "description": "An extension of msgpack-js-browser that better handles old stuff.",
+  "dependencies": {
+    "msgpack-js-browser": "0.1.4",
+    "jdataview": "2.4.5"
+  },
+  "devDependencies": {
+    "better-assert": "1.0.0",
+    "mocha": "1.17.1"
+  }
+}
